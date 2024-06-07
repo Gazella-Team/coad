@@ -72,8 +72,7 @@ export default function Footer() {
                   {currentPath === "/en" ? "VAT: DK43407376" : "CVR: 43407376"}
                 </p>
                 <p className="text-gray-600">gustav@coad.dk</p>
-                <p className="text-gray-600">Vesterbrogade 18b 2.1</p>
-                <p className="text-gray-600">8000, Aarhus C</p>
+                <p className="text-gray-600">Store Torv 9</p>
               </div>
             </div>
           </div>

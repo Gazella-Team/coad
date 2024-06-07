@@ -176,48 +176,6 @@ export default function CaseSwiper() {
       ],
     },
     {
-      media: "/cases/denomo/denomo.gif",
-      brand: "/cases/denomo/denomo.png",
-      description:
-        "Større interiør og møbel webshop. Vi overtog casen fra et af Danmarks større bureauer og skalerede POAS med 72%. Senere i rejsen har vi hjulpet Denomo ind i et nyt marked.",
-      results: [
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            +
-            <span className="w-[50px]">
-              <Counter endValue={72} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            POAS
-          </p>
-        </div>,
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            -
-            <span className="w-[50px]">
-              <Counter endValue={29} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            CPA
-          </p>
-        </div>,
-      ],
-      channels: [
-        <div key={1} className="flex items-center justify-center">
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block">
-            <img className="w-[30px]" src="/metalogo.png"></img>
-          </div>
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block ml-[-20px]">
-            <img className="w-[30px]" src="/klaviyo.png"></img>
-          </div>
-        </div>,
-      ],
-    },
-    {
       media: "/cases/marina/marina.gif",
       brand: "/cases/marina/marina.png",
       description:
@@ -468,48 +426,6 @@ export default function CaseSwiper() {
           </div>
           <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block ml-[-20px]">
             <img className="w-[30px] rounded-[50px]" src="/klaviyo.png"></img>
-          </div>
-        </div>,
-      ],
-    },
-    {
-      media: "/cases/denomo/denomo.gif",
-      brand: "/cases/denomo/denomo.png",
-      description:
-        "Større interiør og møbel webshop. Vi overtog casen fra et af Danmarks større bureauer og skalerede POAS med 72%. Senere i rejsen har vi hjulpet Denomo ind i et nyt marked.",
-      results: [
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            +
-            <span className="w-[50px]">
-              <Counter endValue={72} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            POAS
-          </p>
-        </div>,
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            -
-            <span className="w-[50px]">
-              <Counter endValue={29} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            CPA
-          </p>
-        </div>,
-      ],
-      channels: [
-        <div key={1} className="flex items-center justify-center">
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block">
-            <img className="w-[30px]" src="/metalogo.png"></img>
-          </div>
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block ml-[-20px]">
-            <img className="w-[30px]" src="/klaviyo.png"></img>
           </div>
         </div>,
       ],
@@ -773,48 +689,6 @@ export default function CaseSwiper() {
       ],
     },
     {
-      media: "/cases/denomo/denomo.gif",
-      brand: "/cases/denomo/denomo.png",
-      description:
-        "Prominent in the interior and furniture market, we took over the case from one of Denmark's larger agencies, achieving a 72% increase in POAS.",
-      results: [
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            +
-            <span className="w-[50px]">
-              <Counter endValue={72} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            POAS
-          </p>
-        </div>,
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            -
-            <span className="w-[50px]">
-              <Counter endValue={29} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            CPA
-          </p>
-        </div>,
-      ],
-      channels: [
-        <div key={1} className="flex items-center justify-center">
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block">
-            <img className="w-[30px]" src="/metalogo.png"></img>
-          </div>
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block ml-[-20px]">
-            <img className="w-[30px]" src="/klaviyo.png"></img>
-          </div>
-        </div>,
-      ],
-    },
-    {
       media: "/cases/marina/marina.gif",
       brand: "/cases/marina/marina.png",
       description:
@@ -1065,48 +939,6 @@ export default function CaseSwiper() {
           </div>
           <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block ml-[-20px]">
             <img className="w-[30px] rounded-[50px]" src="/klaviyo.png"></img>
-          </div>
-        </div>,
-      ],
-    },
-    {
-      media: "/cases/denomo/denomo.gif",
-      brand: "/cases/denomo/denomo.png",
-      description:
-        "Prominent in the interior and furniture market, we took over the case from one of Denmark's larger agencies, achieving a 72% increase in POAS.",
-      results: [
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            +
-            <span className="w-[50px]">
-              <Counter endValue={72} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            POAS
-          </p>
-        </div>,
-        <div key={1} className="flex flex-col items-center text-center">
-          <h1 className="mb-[4px] font-[600] text-main flex">
-            -
-            <span className="w-[50px]">
-              <Counter endValue={29} />
-            </span>
-            %
-          </h1>
-          <p className="text-[16px] bg-[#0071e3] font-[500] rounded-[100px] w-[100px]">
-            CPA
-          </p>
-        </div>,
-      ],
-      channels: [
-        <div key={1} className="flex items-center justify-center">
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block">
-            <img className="w-[30px]" src="/metalogo.png"></img>
-          </div>
-          <div className="mb-[40px] border-[1px] p-[10px] bg-white rounded-[50px] inline-block ml-[-20px]">
-            <img className="w-[30px]" src="/klaviyo.png"></img>
           </div>
         </div>,
       ],

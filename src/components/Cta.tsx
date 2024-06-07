@@ -209,8 +209,8 @@ export default function Cta() {
             </div>
             <p className="w-[80%] mt-[20px] text-gray-600 font-[500]">
               {currentPath === "/en"
-                ? "Important: You are eligible to request a free marketing analysis if you can spend +€1,500/month on paid advertising."
-                : "      Vigtigt: Du er kvalificeret til at anmode om en gratis marketingsanalyse, hvis du er i stand til at bruge +10.000kr./måned betalt annoncering."}
+                ? "We receive a large number of inquiries every day and therefore always reserve the right not to conduct a marketing analysis if we do not believe we are a good fit."
+                : "      Vi modtager rigtig mange henvendelser hver dag og forbeholder os derfor altid retten til ikke at lave en marketinganalyse, hvis vi ikke mener, at vi er et match"}
             </p>
           </div>
           {currentPath === "/en" ? <div className="w-[100%] mde:hidden">
